@@ -268,12 +268,12 @@ footer {
 }
 .portfolio .title::after {
   background: #111;
-  content: "Que oferecemos";
+  
 }
 
 /*  sessão equipe  */
 .portfolio .title::after {
-  content: "Sites e aplicações";
+  content: "Aplicações";
 }
 .portfolio .carousel .card {
   background: #222;
@@ -338,7 +338,7 @@ footer {
 
 /*  sessão Contato  */
 .contact .title::after {
-  content: "Fale conosco";
+  content: "Fale comigo";
 }
 .contact .contact-content .column {
   width: calc(50% - 30px);
